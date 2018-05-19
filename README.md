@@ -1,1 +1,5 @@
 # contacts
+
+Crowdsale contract: 0x2dde44b8646C96059d17fde75A54Aca49c43820a
+
+Token contract: 0x5f7cdc3ee922efb49b49fb70795e10921fa888f2
