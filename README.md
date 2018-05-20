@@ -1,4 +1,4 @@
-# contacts
+# contracts
 
 Crowdsale contract: 0x2dde44b8646C96059d17fde75A54Aca49c43820a
 
